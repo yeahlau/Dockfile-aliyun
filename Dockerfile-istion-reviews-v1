@@ -1,0 +1,2 @@
+FROM istio/examples-bookinfo-reviews-v1:1.5.0
+  MAINTAINER  yeahlau
